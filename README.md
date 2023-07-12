@@ -1,5 +1,5 @@
 # README
-% Time-stamp: <2023-07-12 19:13:48 banbara>
+% Time-stamp: <2023-07-12 19:22:33 banbara>
 
 ### OUTLINE
 
@@ -54,9 +54,13 @@ Summary: Total Cost = 0
 ```
 
 ### NOTE
-This package includes the program bin/validator.cc that validates a
+This package includes the program `bin/validator.cc` that validates a
 solution for a CB-CTT instance for all the five formulations. This
 program was developed by Andrea Schaerf and Luca Di Gaspero.
+
+### LICENSE
+
+This software is distributed under [the BSD 3-Clause License](https://opensource.org/license/bsd-3-clause/).
 
 ### Citing
 
@@ -72,7 +76,7 @@ program was developed by Andrea Schaerf and Luca Di Gaspero.
 
 ### AUTHORS
 - Mutsunori Banbara
-  Graduate School of Informatics, Nagoya University
-  banbara@nagoya-u.jp
+- banbara@nagoya-u.jp
+- Graduate School of Informatics, Nagoya University
 
 Enjoy!
