@@ -1,5 +1,5 @@
 # README
-% Time-stamp: <2023-07-12 19:10:03 banbara>
+% Time-stamp: <2023-07-12 19:13:48 banbara>
 
 ### OUTLINE
 
@@ -21,22 +21,22 @@ Competition (ITC-2007).
 % clingo teaspoon.lp ud1.lp bench/Test_asp/toy.lp  > toy.log
 % ./bin/decode.perl toy.log > toy.sol
 % cat toy.sol
-Geotec rA 3 1
-Geotec rA 3 2
-SceCosC rA 1 3
-Geotec rA 4 3
-ArcTec rB 3 0
-ArcTec rB 2 1
-ArcTec rB 3 1
-TecCos rB 1 2
-TecCos rB 2 2
-TecCos rB 0 3
-Geotec rB 2 3
-SceCosC rB 4 3
+SceCosC rA 0 1
+SceCosC rB 2 1
+SceCosC rB 1 3
+ArcTec rB 1 0
+ArcTec rB 2 0
+ArcTec rB 1 1
+TecCos rB 4 1
 TecCos rC 0 2
-SceCosC rC 3 2
-TecCos rC 4 2
-Geotec rC 1 3
+TecCos rC 1 2
+TecCos rB 2 2
+TecCos rB 4 2
+Geotec rC 3 0
+Geotec rB 0 1
+Geotec rA 1 1
+Geotec rC 3 1
+Geotec rB 2 3
 ```
 
 ```
