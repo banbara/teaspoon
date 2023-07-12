@@ -1,5 +1,5 @@
 # README
-% Time-stamp: <2023-07-12 19:30:44 banbara>
+% Time-stamp: <2023-07-12 21:29:23 banbara>
 
 ### OUTLINE
 
@@ -12,7 +12,7 @@ Competition (ITC-2007).
 - [clingo](https://potassco.org/clingo/) (version 5 or higher)
 
 ### OPTIONAL REQUIREMENTS
-- Perl 3 for decoding answer sets to solutions of ITC competition format
+- Perl 5 for decoding answer sets to solutions of ITC competition format
 - g++ for validating solutions of ITC competition format
 
 ### USAGE
@@ -54,9 +54,9 @@ Summary: Total Cost = 0
 ```
 
 ### NOTE
-This package includes the program `bin/validator.cc` that validates a
-solution for a CB-CTT instance for all the five formulations. This
-program was developed by Andrea Schaerf and Luca Di Gaspero.
+This package includes a program `bin/validator.cc` that validates a
+solution for a CB-CTT instance for all the five formulations.
+This program was developed by Andrea Schaerf and Luca Di Gaspero.
 
 ### LICENSE
 
