@@ -1,5 +1,5 @@
 # README
-% Time-stamp: <2023-07-12 19:22:33 banbara>
+% Time-stamp: <2023-07-12 19:30:44 banbara>
 
 ### OUTLINE
 
@@ -13,7 +13,7 @@ Competition (ITC-2007).
 
 ### OPTIONAL REQUIREMENTS
 - Perl 3 for decoding answer sets to solutions of ITC competition format
-- C++ for validating solutions of ITC competition format
+- g++ for validating solutions of ITC competition format
 
 ### USAGE
 
